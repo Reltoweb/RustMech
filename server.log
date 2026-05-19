@@ -1,0 +1,24 @@
+
+   INFO  Server running on [http://127.0.0.1:8000].  
+
+  Press Ctrl+C to stop the server
+
+  2026-05-18 18:32:27 /login ..................................... ~ 500.80ms
+  2026-05-18 18:32:30 /login ..................................... ~ 500.53ms
+  2026-05-18 18:32:30 /garage ...................................... ~ 0.04ms
+  2026-05-18 18:32:31 /shop ........................................ ~ 0.21ms
+  2026-05-18 18:32:32 /api/shop/buy ................................ ~ 0.17ms
+  2026-05-18 18:32:33 /garage ...................................... ~ 0.17ms
+  2026-05-18 18:32:34 /arena ....................................... ~ 0.14ms
+  2026-05-18 18:32:35 /broadcasting/auth ........................... ~ 0.25ms
+  2026-05-18 18:32:36 /register .................................... ~ 0.19ms
+  2026-05-18 18:32:37 /register .................................. ~ 500.67ms
+  2026-05-18 18:32:37 /garage ...................................... ~ 0.04ms
+  2026-05-18 18:32:38 /arena ....................................... ~ 0.16ms
+  2026-05-18 18:32:39 /broadcasting/auth ........................... ~ 0.13ms
+  Failed to listen on 127.0.0.1:8001 (reason: Address already in use)
+  Failed to listen on 127.0.0.1:8002 (reason: Address already in use)
+  Failed to listen on 127.0.0.1:8003 (reason: Address already in use)
+  Failed to listen on 127.0.0.1:8004 (reason: Address already in use)
+  Failed to listen on 127.0.0.1:8005 (reason: Address already in use)
+  Failed to listen on 127.0.0.1:8006 (reason: Address already in use)
