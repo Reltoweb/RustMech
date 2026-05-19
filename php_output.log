@@ -1,0 +1,30 @@
+
+   INFO  Server running on [http://127.0.0.1:8000].  
+
+  Press Ctrl+C to stop the server
+
+  2026-05-18 19:31:58 /login ..................................... ~ 500.50ms
+  2026-05-18 19:32:00 /login ..................................... ~ 500.49ms
+  2026-05-18 19:32:01 /garage ...................................... ~ 0.05ms
+  2026-05-18 19:32:01 /arena ....................................... ~ 0.12ms
+  2026-05-18 19:32:02 /assets/images/ranger.png .................... ~ 0.20ms
+  2026-05-18 19:32:02 /assets/images/defender.png .................. ~ 0.44ms
+  2026-05-18 19:32:02 /assets/images/hunter.png .................... ~ 0.61ms
+  2026-05-18 19:32:02 /assets/images/floor.png ..................... ~ 0.86ms
+  2026-05-18 19:34:06 /login ....................................... ~ 0.17ms
+  2026-05-18 19:34:07 /login ....................................... ~ 0.14ms
+  2026-05-18 19:34:07 /garage .................................... ~ 500.58ms
+  2026-05-18 19:34:08 /arena ....................................... ~ 0.13ms
+  2026-05-18 19:34:09 /assets/images/ranger.png .................... ~ 0.20ms
+  2026-05-18 19:34:09 /assets/images/defender.png .................. ~ 0.45ms
+  2026-05-18 19:34:09 /assets/images/hunter.png .................... ~ 0.65ms
+  2026-05-18 19:34:09 /assets/images/floor.png ..................... ~ 0.21ms
+  Failed to listen on 127.0.0.1:8001 (reason: Address already in use)
+  Failed to listen on 127.0.0.1:8002 (reason: Address already in use)
+  Failed to listen on 127.0.0.1:8003 (reason: Address already in use)
+  Failed to listen on 127.0.0.1:8004 (reason: Address already in use)
+  Failed to listen on 127.0.0.1:8005 (reason: Address already in use)
+  Failed to listen on 127.0.0.1:8006 (reason: Address already in use)
+  Failed to listen on 127.0.0.1:8007 (reason: Address already in use)
+  Failed to listen on 127.0.0.1:8008 (reason: Address already in use)
+  Failed to listen on 127.0.0.1:8009 (reason: Address already in use)
